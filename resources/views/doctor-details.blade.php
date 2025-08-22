@@ -107,174 +107,157 @@
   <!-- Start Page Heading -->
   <section class="cs_page_heading cs_bg_filed cs_center" data-src="assets/img/page_heading_bg.jpg">
     <div class="container">
-      <h1 class="cs_page_title">About Page</h1>
+      <h1 class="cs_page_title">Doctor Details</h1>
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href='index.html'>Home</a></li>
-        <li class="breadcrumb-item active">About Page</li>
+        <li class="breadcrumb-item active">Doctor Details</li>
       </ol>
     </div>
   </section>
   <!-- End Page Heading -->
-  <!-- Start About Section -->
-  <section class="cs_about cs_style_1 position-relative">
+  <section>
     <div class="cs_height_120 cs_height_lg_80"></div>
     <div class="container">
-      <div class="row align-items-center cs_gap_y_40">
-        <div class="col-lg-6">
-          <div class="cs_about_thumb">
-            <div class="cs_about_thumb_1">
-              <img src="assets/img/about_img_7.jpg" alt="About Image">
-              <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
-                <span class="cs_player_btn cs_center">
-                  <span></span>
-                </span>
-                <span class="cs_about_play_btn_text">How We Work</span>
-              </a>
-            </div>
-            <div class="cs_about_thumb_2">
-              <img src="assets/img/about_img_2.jpg" alt="About Image">
-              <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
-            </div>
-            <div class="cs_experience_box cs_center wow zoomIn" data-wow-duration="0.9s" data-wow-delay="0.25s">
-              <p class="cs_experience_box_number">26+</p>
-              <p class="cs_experience_box_title">Experience</p>
+      <div class="cs_doctor_details_wrapper">
+        <div class="row cs_row_gap_30 cs_gap_y_30">
+          <div class="col-lg-5">
+            <div class="cs_doctor_details_thumbnail position-relative">
+              <img src="assets/img/doctor_details_1.jpg" alt="Doctor Image">
+              <div class="cs_doctor_thumbnail_shape1 position-absolute cs_blue_bg"></div>
+              <div class="cs_doctor_thumbnail_shape2 position-absolute cs_accent_bg"></div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="cs_about_content">
-            <div class="cs_section_heading cs_style_1">
-              <p class="cs_section_subtitle cs_accent_color wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
-                <span class="cs_shape_left"></span>
-                OUR ABOUT US
-              </p>
-              <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2>
-            </div>
-            <p class="cs_about_text">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and comfortable in establishing.</p>
-            <div class="row cs_gap_y_30">
-              <div class="col-sm-6">
-                <div class="cs_iconbox cs_style_1">
-                  <div class="cs_iconbox_head">
-                    <div class="cs_iconbox_icon cs_center">
-                      <img src="assets/img/icons/about_icon_1.png" alt="">
+          <div class="col-lg-7">
+            <div class="cs_doctor_details">
+              <div class="cs_doctor_info_header">
+                <h3 class="cs_doctor_title">Dr. Lataro Bara</h3>
+                <p class="cs_doctor_subtitle mb-0">Manegar</p>
+              </div>
+              <p class="mb-0">We irtual desktop offers a fast and reliable best from anywhere. A truly powerful tool
+                where your data and applications are secured in a private location in the prestigious Telehouse data
+                centre in London.</p><br>
+                <p class="mb-0">The majority have suffered alteration in some form, by injected humour, or randomised words
+                which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be
+                sure there isn't anything embarrassing hidden in the middle of text.</p>
+              <div class="cs_height_20 cs_height_lg_20"></div>
+              <div class="cs_doctor_info_wrapper">
+                <div class="cs_doctor_info_row">
+                  <div class="cs_doctor_info_col">
+                    <div class="cs_iconbox cs_style_10">
+                      <div class="cs_iconbox_icon"><i class="fa-solid fa-location-dot"></i></div>
+                      <div class="cs_iconbox_text">
+                        <h3 class="cs_iconbox_title">Location</h3>
+                        <p class="cs_iconbox_subtitle mb-0">Dhaka,Dhaka 31</p>
+                      </div>
                     </div>
-                    <h3 class="cs_iconbox_title m-0">Client Support</h3>
                   </div>
-                  <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
+                  <div class="cs_doctor_info_col">
+                    <div class="cs_iconbox cs_style_10">
+                      <div class="cs_iconbox_icon"><i class="fa-solid fa-envelope"></i></div>
+                      <div class="cs_iconbox_text">
+                        <h3 class="cs_iconbox_title">E-mail:</h3>
+                        <p class="cs_iconbox_subtitle mb-0">ranst@g-mail.com</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="cs_doctor_info_row">
+                  <div class="cs_doctor_info_col">
+                    <div class="cs_iconbox cs_style_10">
+                      <div class="cs_iconbox_icon"><i class="fa-solid fa-certificate"></i></div>
+                      <div class="cs_iconbox_text">
+                        <h3 class="cs_iconbox_title">Qualification</h3>
+                        <p class="cs_iconbox_subtitle mb-0">M.S.S</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="cs_doctor_info_col">
+                    <div class="cs_iconbox cs_style_10">
+                      <div class="cs_iconbox_icon"><i class="fa-solid fa-globe"></i></div>
+                      <div class="cs_iconbox_text">
+                        <h3 class="cs_iconbox_title">Website</h3>
+                        <p class="cs_iconbox_subtitle mb-0">demo.com</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="cs_doctor_info_row">
+                  <div class="cs_doctor_info_col">
+                    <div class="cs_iconbox cs_style_10">
+                      <div class="cs_iconbox_icon"><i class="fa-solid fa-suitcase"></i></div>
+                      <div class="cs_iconbox_text">
+                        <h3 class="cs_iconbox_title">Experience</h3>
+                        <p class="cs_iconbox_subtitle mb-0">2 - 4 Years</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="cs_doctor_info_col">
+                    <div class="cs_iconbox cs_style_10">
+                    </div>
+                  </div>
                 </div>
               </div>
-              <div class="col-sm-6">
-                <div class="cs_iconbox cs_style_1">
-                  <div class="cs_iconbox_head">
-                    <div class="cs_iconbox_icon cs_center">
-                      <img src="assets/img/icons/about_icon_2.png" alt="">
-                    </div>
-                    <h3 class="cs_iconbox_title m-0">Doctor Support</h3>
-                  </div>
-                  <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
-                </div>
-              </div>
             </div>
-            <div class="cs_about_iconbox">
-              <div class="cs_about_iconbox_icon cs_center">
-                <i class="fa-regular fa-circle-check"></i>
-              </div>
-              <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team <a href="#">READ MORE +</a></p>
-            </div>
-            <a class='cs_btn cs_style_1 cs_color_1' href='about.html'>
-              <span>About More </span>
-              <i class="fa-solid fa-angles-right"></i>
-            </a>
           </div>
         </div>
-      </div>
-    </div>
-    <div class="cs_section_img"><img src="assets/img/about_section_img_1.png" alt=""></div>
-    <div class="cs_height_120 cs_height_lg_80"></div>
-  </section>
-  <!-- End About Section -->
-
-    <!-- Start Counter Section -->
-    <div class="cs_counter_area_2">
-      <div class="container">
-        <div class="cs_counter_2_wrap">
-          <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center">
-              <img src="assets/img/icons/counter_icon_1.png" alt="Icon">
+        <div class="cs_height_47 cs_height_lg_40"></div>
+        <div class="cs_height_20 cs_height_lg_20"></div>
+        <p class="mb-0">The majority have suffered alteration in some form, by injected humour, or randomised words
+          which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be
+          sure there isn't anything embarr assing hidden in ge editors now the middle of text. All the Lorem Ipsum
+          generators on the Internet tend to repeat predefined chunk readable content of a page when looking at its
+          layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as
+          opposed to using 'Content here, content here', making it look like readable English. Many.</p>
+        <div class="cs_height_30 cs_height_lg_30"></div>
+        <div class="cs_progress_bar_wrapper">
+          <div class="cs_progress_item">
+            <div class="cs_progress_head">
+              <span>Medical </span>
+              <span>85%</span>
             </div>
-            <div class="cs_counter_nmber"><span data-count-to="567" class="odometer"></span>+</div>
-            <p class="cs_counter_title mb-0">Active Clients</p>
-          </div>
-          <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center">
-              <img src="assets/img/icons/counter_icon_2.png" alt="Icon">
+            <div class="cs_progress" data-progress="85">
+              <div class="cs_progress_in"></div>
             </div>
-            <div class="cs_counter_nmber"><span data-count-to="23" class="odometer"></span>K+</div>
-            <p class="cs_counter_title mb-0">Team Support</p>
           </div>
-          <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center">
-              <img src="assets/img/icons/counter_icon_3.png" alt="Icon">
+          <div class="cs_progress_item">
+            <div class="cs_progress_head">
+              <span>Solution</span>
+              <span>78%</span>
             </div>
-            <div class="cs_counter_nmber"><span data-count-to="241" class="odometer"></span>+</div>
-            <p class="cs_counter_title mb-0">Projects Completed</p>
-          </div>
-          <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center">
-              <img src="assets/img/icons/counter_icon_4.png" alt="Icon">
+            <div class="cs_progress" data-progress="78">
+              <div class="cs_progress_in"></div>
             </div>
-            <div class="cs_counter_nmber"><span data-count-to="16" class="odometer"></span>K+</div>
-            <p class="cs_counter_title mb-0">Award winner</p>
           </div>
-        </div>
-      </div>
-      <div class="cs_height_120 cs_height_lg_80"></div>
-    </div>
-    <!-- End Counter Section -->
-
-
-  <!-- Start CTA Section -->
-  <section class="cs_cta cs_style_2 cs_blue_bg cs_bg_filed cs_center" data-src="assets/img/cta_bg_1.jpg">
-    <div class="container">
-      <div class="row align-items-center cs_gap_y_40">
-        <div class="col-lg-6">
-          <div class="cs_cta_btn_wrapper">
-            <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_video_open">
-              <span class="cs_player_btn cs_center">
-                <span></span>
-              </span>
-              <span class="cs_play_btn_text">WATCH VIDEO</span>
-            </a>
+          <div class="cs_progress_item">
+            <div class="cs_progress_head">
+              <span>Dental</span>
+              <span>65%</span>
+            </div>
+            <div class="cs_progress" data-progress="65">
+              <div class="cs_progress_in"></div>
+            </div>
           </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="cs_cta_text">
-            <div class="cs_section_heading cs_style_1">
-              <p class="cs_section_subtitle cs_accent_color"><span class="cs_shape_left"></span>OUR WATCH VIDEO</p>
-              <h2 class="cs_section_title cs_white_color">Professional Medical Care Measure Medical.</h2>
-              <p class="cs_cta_subtitle cs_white_color">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and
-                comfortable in establishing.</p>
-              <a class='cs_btn cs_style_1 cs_color_3' href='contact.html'>
-                <span>Video More </span>
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
+          <div class="cs_progress_item">
+            <div class="cs_progress_head">
+              <span> Medical Lab</span>
+              <span>85%</span>
+            </div>
+            <div class="cs_progress" data-progress="85">
+              <div class="cs_progress_in"></div>
             </div>
           </div>
         </div>
       </div>
-      <div class="cs_cta_shape position-absolute">
-        <img src="assets/img/medical_brand.png" alt="Medical Brand" class="cs_spinner_img">
-      </div>
+      <div class="cs_height_100 cs_height_lg_60"></div>
+      <hr>
     </div>
   </section>
-  <!-- End CTA Section -->
-
   <!-- Start Team Section -->
   <section>
     <div class="cs_height_110 cs_height_lg_70"></div>
     <div class="container">
       <div class="cs_section_heading cs_style_1 text-center">
-        <p class="cs_section_subtitle cs_accent_color wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
+        <p class="cs_section_subtitle cs_accent_color">
           <span class="cs_shape_left"></span>OUR TEAM MEMBER<span class="cs_shape_right"></span>
         </p>
         <h2 class="cs_section_title">Meet Our Specialist This <br>Doctor Meeting</h2>
@@ -290,6 +273,24 @@
                 <div class="cs_team_shape cs_accent_bg"></div>
                 <a class='cs_team_thumbnail' href='doctor-details.html'>
                   <img src="assets/img/team_1.jpg" alt="Team Thumbnail">
+                </a>
+                <div class="cs_team_bio">
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href='doctor-details.html'>Dr. Norma Pedric</a></h3>
+                  <p class="cs_team_subtitle">Neurologiest</p>
+                  <div class="cs_social_btns cs_style_1">
+                    <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
+                    <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="cs_slide">
+              <div class="cs_team cs_style_1 cs_blue_bg">
+                <div class="cs_team_shape cs_accent_bg"></div>
+                <a class='cs_team_thumbnail' href='doctor-details.html'>
+                  <img src="assets/img/team_5.jpg" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
                   <h3 class="cs_team_title cs_extra_bold mb-0"><a href='doctor-details.html'>Dr. Norma Pedric</a></h3>
@@ -343,25 +344,7 @@
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
                 <a class='cs_team_thumbnail' href='doctor-details.html'>
-                  <img src="assets/img/team_1.jpg" alt="Team Thumbnail">
-                </a>
-                <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href='doctor-details.html'>Dr. Norma Pedric</a></h3>
-                  <p class="cs_team_subtitle">Neurologiest</p>
-                  <div class="cs_social_btns cs_style_1">
-                    <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-                    <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
-                    <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
-                    <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="cs_slide">
-              <div class="cs_team cs_style_1 cs_blue_bg">
-                <div class="cs_team_shape cs_accent_bg"></div>
-                <a class='cs_team_thumbnail' href='doctor-details.html'>
-                  <img src="assets/img/team_4.jpg" alt="Team Thumbnail">
+                  <img src="assets/img/team_6.jpg" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
                   <h3 class="cs_team_title cs_extra_bold mb-0"><a href='doctor-details.html'>Dr. Norma Pedric</a></h3>
@@ -502,5 +485,6 @@
   <script src="assets/js/odometer.js"></script>
   <script src="assets/js/main.js"></script>
 </body>
+
 
 </html>
